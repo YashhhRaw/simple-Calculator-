@@ -39,5 +39,3 @@ This Python script is a basic calculator program that allows users to perform ar
 5. You'll be asked if you want to perform another calculation. Type `Yes` to continue or `No` to stop.
 
 ---
-
-## Example Output
